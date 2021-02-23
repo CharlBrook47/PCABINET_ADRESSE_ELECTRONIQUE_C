@@ -1,7 +1,5 @@
 /*
-kouame
-konan
-ghislain
+Konan Jean-CharlEm OLE MASTER 1 SIGL
 
 code de compilation:
 
