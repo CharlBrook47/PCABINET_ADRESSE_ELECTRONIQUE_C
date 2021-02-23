@@ -1,5 +1,5 @@
 /*
-Konan Jean-CharlEm OLE MASTER 1 SIGL
+Konan Jean-CharlEm OLE MASTER 1 SIGL 2019 ESATIC
 
 code de compilation:
 
